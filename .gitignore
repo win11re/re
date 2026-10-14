@@ -4,3 +4,5 @@
 #
 
 Windows.pfx
+internal-paths-dump.csv
+re.tools/*.txt
